@@ -25,33 +25,63 @@ As a cybersecurity analyst, you are working to discover weaknesses and vulnerabi
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Concept: <br/>
-<img src="https://i.imgur.com/7qAqcnX.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+1Concept: <br/>
+<img src="https://i.imgur.com/kVfgblX.png" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creating an Active Directory domain: <br/>
-<img src="https://i.imgur.com/xDLq6X4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+2Creating an Active Directory domain: <br/>
+<img src="https://i.imgur.com/9nLZaux.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Adding names & creating user accounts and groups:  <br/>
-<img src="https://i.imgur.com/njB8xKJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+3Adding names & creating user accounts and groups:  <br/>
+<img src="https://i.imgur.com/wKZ2l3J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Scripts for adding and managing users:  <br/>
-<img src="https://i.imgur.com/RXUQmto.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+4Scripts for adding and managing users:  <br/>
+<img src="https://i.imgur.com/jXvnurv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Configuring DHCP:  <br/>
-<img src="https://i.imgur.com/YSor8Hz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+5Configuring DHCP:  <br/>
+<img src="https://i.imgur.com/OLEnAne.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Login with corporate credential:  <br/>
-<img src="https://i.imgur.com/0EuZ36M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+6Login with corporate credential:  <br/>
+<img src="https://i.imgur.com/mgEoO2c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
-
-<!--
+7Login with corporate credential:  <br/>
+<img src="https://i.imgur.com/b1zIFhI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+8Login with corporate credential:  <br/>
+<img src="https://i.imgur.com/8u7Tp9K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+9Login with corporate credential:  <br/>
+<img src="https://i.imgur.com/QODCx1r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+10Login with corporate credential:  <br/>
+<img src="https://i.imgur.com/ytzA0sf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+11Login with corporate credential:  <br/>
+<img src="https://i.imgur.com/sHndjL2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+12Login with corporate credential:  <br/>
+<img src="https://i.imgur.com/GsBwKOP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+13Login with corporate credential:  <br/>
+<img src="https://i.imgur.com/wMcy0L4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+14Login with corporate credential:  <br/>
+<img src="https://i.imgur.com/0lslA4Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ <!--
  ```diff
 - text in red
 + text in green
